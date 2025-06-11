@@ -1,3 +1,5 @@
+// 1 st problem is solve the caching problem and handle the private state each questions.
+
 // function parent(num){
 //     const a =num;
 //     const b =5;
